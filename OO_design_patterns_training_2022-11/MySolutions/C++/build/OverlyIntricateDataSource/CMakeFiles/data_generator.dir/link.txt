@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdata_generator.a CMakeFiles/data_generator.dir/src/OverlyIntricateDataGenerator.cpp.o
+/usr/bin/ranlib libdata_generator.a

@@ -1,0 +1,8 @@
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/CMakeFiles/edit_cache.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/CMakeFiles/rebuild_cache.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/Exercise/CMakeFiles/exercise.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/Exercise/CMakeFiles/edit_cache.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/Exercise/CMakeFiles/rebuild_cache.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/OverlyIntricateDataSource/CMakeFiles/data_generator.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/OverlyIntricateDataSource/CMakeFiles/edit_cache.dir
+/home/frkn/lely_ws/oop_training_Nov08/Exercises/C++/build/OverlyIntricateDataSource/CMakeFiles/rebuild_cache.dir

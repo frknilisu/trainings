@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exercise.dir/src/DataSourceAdapter.cpp.o CMakeFiles/exercise.dir/src/Decorators.cpp.o CMakeFiles/exercise.dir/src/Reporter.cpp.o CMakeFiles/exercise.dir/src/TextReporter.cpp.o CMakeFiles/exercise.dir/src/XmlReporter.cpp.o CMakeFiles/exercise.dir/src/main.cpp.o -o exercise  ../OverlyIntricateDataSource/libdata_generator.a 

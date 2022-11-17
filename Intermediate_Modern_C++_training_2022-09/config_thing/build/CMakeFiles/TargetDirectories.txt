@@ -1,0 +1,8 @@
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/config_thing_production.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/config_thing_testing.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/edit_cache.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/rebuild_cache.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/list_install_components.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/install.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/install/local.dir
+/home/frkn/lely_ws/cpp_training_Sept22/config_thing/build/CMakeFiles/install/strip.dir

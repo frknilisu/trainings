@@ -1,0 +1,10 @@
+
+Gerucht: iPhone krijgt in 2019 TrueDepth-achtig camerasysteem aan achterkant
+
+Apple zou onderzoek doen of het aan de achterkant van de iPhones van 2019 een camerasysteem kan plaatsen zoals dat aan de voorkant zit van de iPhone X. Daardoor zou de telefoon de wereld via infrarood kunnen scannen ten behoeve van augmented reality.
+
+Het camerasysteem zou lijken op de setup van het TrueDepth-systeem op de iPhone X, meldt AppleInsider op basis van informatie van analistenbureau Barclays. TrueDepth projecteert tienduizenden punten op het gezicht van gebruikers om die in 3d te kunnen scannen en de gebruiker te identificeren of mimiek na te doen voor Animoji's.
+
+Met het systeem aan de achterkant zouden iPhones de wereld op dezelfde manier kunnen scannen en beter diepte in kunnen schatten dan met huidige systeem van ARKit mogelijk is. Daardoor zouden ar-toepassingen virtuele objecten beter kunnen laten integreren in het camerabeeld en het zo echter laten lijken. ARKit gebruikt momenteel een camera en maakt geen gebruik van de secundaire sensor op de iPhone 7 Plus, 8 Plus en X om diepte in te schatten.
+
+Apple is nog in een vroeg stadium met het ontwikkelen van de techniek en als het lukt, dan zou het pas verschijnen in de iPhones die in 2019 verschijnen. Inmiddels gaan er al volop geruchten over de iPhones voor 2018, die deze techniek nog niet zouden bevatten.

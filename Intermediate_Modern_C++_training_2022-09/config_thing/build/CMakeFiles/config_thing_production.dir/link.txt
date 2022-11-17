@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/config_thing_production.dir/prod_main.cpp.o CMakeFiles/config_thing_production.dir/motor.cpp.o CMakeFiles/config_thing_production.dir/config.cpp.o -o config_thing_production 

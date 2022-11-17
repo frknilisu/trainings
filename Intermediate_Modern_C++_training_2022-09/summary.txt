@@ -1,0 +1,172 @@
+======================================== DAY 1
+
+==== 0. Introduction (7)
+	Introduction
+	Planning
+	House Rules
+
+==== 1. Overview (15)
+	Brief history of C++
+	Expected level of participants' experience
+	Independent compilation
+	Properties of C++
+	Object-oriented programming: Encapsulation, Inheritance, Polymorphism
+	Exceptions
+
+==== 2. Language and Syntax Changes (64) (3h)
+
+	Constexpr: compile-time evaluation
+	Static assertions
+	If constexpr
+	nullptr
+	Enum class
+	*Exercise*: use of enum class ("Enum")
+	Range-based for loop
+	Lambda expressions
+	*Exercise*: lambda expressions ("LastName")
+	Generic lambdas
+	Capture expressions
+	Type inference: auto, decltype
+	Alternative function syntax
+	Function return type deduction
+	Attributes
+	New string literals
+	Digit separators
+	Binary literals
+	User-defined literals
+	*Exercise*: user-defined literals ("Duration")
+
+==== 3. Uniform Initialization (20) (1h)
+
+	{} everywhere
+	Initializer lists
+	Explicit conversion operators
+	In-class member initializers
+	Aggregate member initialization
+	Tuple types
+	Structured bindings
+	Designated initializers
+
+==== 4. Containers and Algorithms (52) (4h)
+
+	Containers
+	Sequence, Associative and Unordered Associative Containers
+	vector - interface
+	vector - internals
+	Big-O notation
+ 	Iterators
+	Range for
+	vector - insertion and removal
+	list
+	set
+	map
+	multiset, multimap
+	unordered sequence containers
+	Binary Search Trees
+	Linked lists
+	Sort
+	Lambda functions
+
+======================================== DAY 2
+
+	*Exercise*: Iterator ("Iterator")
+	*Exercise*: Merge two lists and sort ("Merge")
+	*Exercise*: Sort by last name ("Person")
+	*Exercise*: Frequency Table ("Frequency")
+
+==== 5. Operator Overloading (35)
+
+	Copy assignment operator
+	Copy construction vs assignment
+	Overloading other operators
+	Overloading binary operators
+	Friend functions and operators
+	Overloading operator << (std::ostream&, T)
+	*Exercise*: Matrix class ("Matrix")
+	
+==== 6. Dynamic Memory Allocation (13)
+
+	Stack vs Heap objects
+	new and delete operators
+	new does not return a null pointer
+    *Exercise*: School ("School")
+	Copy constructors and dynamic memory
+	Value types and reference types
+	Rule of Three/Five/Zero
+
+==== 7. Move Semantics (12) (2h)
+
+	Rvalue references
+	std::move
+	Move constructor
+	Move assignment
+	*Exercise*: move semantics (string class) ("String")
+	Perfect forwarding
+
+==== 8. Smart Pointers (20) (1h)
+
+	Heap objects and exceptions
+	RAII
+	unique_ptr
+	shared_ptr
+	*Exercise*: unique_ptr ("School (smart pointers)")
+	History of smart pointers
+	unique_ptr, shared_ptr, weak_ptr
+	overloaded operators: *, ->	
+	*Exercise*: smart pointers (factory method) ("Person")
+
+======================================== DAY 3
+
+==== 9. Interfaces (16)
+
+	Interfaces
+	Low Coupling
+	High Cohestion
+	Interfaces do not exist as such in C++ (unlike in Java and C#)
+	Using abstract base classes as interfaces
+	Interfaces, mocking and testing
+	*Exercise*: Robotic Vacuum cleaner (design only)
+
+==== 10. TDD in C++ (15)
+
+	Test-driven development
+	Example: testing for leap year
+	Unit testing and private members
+	Test doubles (dummy, stub, spy, mock, fake)
+	A unit is the smallest testable part of an application
+	Media link: Is TDD Dead? (2014)
+
+==== 11. Dependency Injection (20)
+
+	Inversion of control
+	Dependency Injection
+	Constructor Injection
+	Property Injection
+	DI using templates
+	DI and unit testing
+	Service Locator
+	DI frameworks
+
+==== 12. Compilers and Tooling (21) (1h)
+
+	Relevant C++ compilers: MSVC, GCC, LLVM, Intel
+	Standards compliance of MSVC, GCC, LLVM
+	Mixing compilers on one platform
+	Tools and libraries: Test frameworks, formatters, static checkers
+
+==== 13. Concurrency (32) (2.5h)
+
+	Introduction
+	std::thread
+	std::mutex, lock, lock_guard
+	*Exercise*: thread-safe counter ("ConcurrentCounter")
+	Condition variables
+	*Exercise*: producer-consumer ("ProducerConsumer")
+	Atomic variables
+	std::chrono
+	std::async
+	*Exercise*: partial sum
+
+==== 14. Conclusion (8)
+
+	Recommended reading

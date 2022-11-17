@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/config_thing_testing.dir/test_main.cpp.o CMakeFiles/config_thing_testing.dir/motor.cpp.o CMakeFiles/config_thing_testing.dir/mockConfig.cpp.o -o config_thing_testing 
